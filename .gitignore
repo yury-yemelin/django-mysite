@@ -1,0 +1,12 @@
+*.pyc
+.idea*
+/logs/*
+/static/*
+/media/*
+/media/uploads/*
+!/logs/.keepme
+!/media/.keepme
+!/media/uploads/.keepm
+!/static/.keepme 
+*~
+
